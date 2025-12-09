@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Premium T-Shirt (Demo)",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/300x400/667eea/ffffff?text=DEMO+PRODUCT",
+    "description": "Demo product - Full version includes real e-commerce functionality",
+    "category": "Demo"
+  },
+  {
+    "id": 2,
+    "name": "Designer Jeans (Demo)",
+    "price": 89.99,
+    "image": "https://via.placeholder.com/300x400/764ba2/ffffff?text=DEMO+PRODUCT",
+    "description": "Demo product - Purchase full version for complete features",
+    "category": "Demo"
+  }
+]
