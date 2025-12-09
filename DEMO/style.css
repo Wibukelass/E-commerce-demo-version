@@ -1,0 +1,29 @@
+/* ===========================================
+   DEMO VERSION - E-COMMERCE PWA TEMPLATE
+   Full version available for purchase: $79.99
+   Contact: fazaradriansyah231@gmail.com
+   =========================================== */
+
+/* DEMO LIMITATION NOTICE */
+.demo-limitation {
+    display: none; /* Can be shown with JS if needed */
+}
+
+/* Watermark effect on some elements */
+body::after {
+    content: "DEMO";
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 0.1;
+    font-size: 80px;
+    color: #ccc;
+    pointer-events: none;
+    z-index: -1;
+}
+
+/* Rest of your existing styles */
+:root {
+    --primary-color: #667eea;
+    /* ... */
+}
